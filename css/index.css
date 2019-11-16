@@ -140,7 +140,7 @@ html {
 }
 html,
 body {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Dancing Script', cursive;
   color: #5E6164;
 }
 h1,
@@ -148,11 +148,12 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: 'Russo One', sans-serif;
+  font-family: 'Meddon', cursive;
   color: #23293B;
 }
 h2 {
   font-size: 3.2rem;
+  font-family: 'Meddon', cursive;
 }
 h3 {
   font-size: 2.8rem;
@@ -162,7 +163,7 @@ p {
   line-height: 1.4;
 }
 .container {
-  max-width: 800px;
+  max-width: 80%;
   width: 100%;
   margin: 0 auto;
 }
