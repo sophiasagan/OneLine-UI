@@ -348,8 +348,8 @@ footer {
   }
 }
 .home .learn-more .learn-more-img img {
-  width: 75%;
-  height: auto;
+  width: auto;
+  height: 85%;
   border-radius: 10px;
 }
 .contact {
