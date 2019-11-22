@@ -255,7 +255,12 @@ footer {
 }
 .home .features h3 {
   margin-top: 11px;
+  @media (max-width: 500px) {
+    display: flex;
+    justify-content: center;
+  } 
 }
+
 .home .features p {
   margin-top: 13px;
 }
